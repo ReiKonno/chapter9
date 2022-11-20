@@ -65,3 +65,35 @@ footer {
   height: 50px;
   background-color: #aaa;
 }
+
+@media screen and (max-width: 768px) {
+  header{
+    width: 100%;  /* 例です */
+  }
+  
+  main{
+    width: 100%;  /* 例です */
+    display: block;
+  }
+  
+  .step-box{
+    padding-left: 2%;
+    padding-right: 2%;
+  }
+  
+  .step-img1{
+    width: 49%;
+  }
+  
+  .step-img2{
+    width: 49%;
+  }
+  
+  .step-img3{
+    width: 49%;
+  }
+  
+  .pagination {
+    margin-bottom: 50px;
+  }
+}
