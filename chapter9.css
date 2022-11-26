@@ -78,19 +78,25 @@ footer {
   
   .step-box{
     width: 90%;
-    margin: 0px auto 20px;
+    margin: 0px 5% 20px;
   }
   
   .step-img1{
-    width: 49%;
+    margin: auto;
+    background-size: cover;
+    width: 80%;
   }
   
   .step-img2{
-    width: 49%;
+    margin: auto;
+    background-size: cover;
+    width: 80%;
   }
   
   .step-img3{
-    width: 49%;
+    margin: auto;
+    background-size: cover;
+    width: 80%;
   }
   
   .pagination {
